@@ -1,6 +1,10 @@
 # Go Plank Theme
 ![images](http://i.imgbox.com/VycKRPO7.png)
 
+# Install
+Copy GoPlank directory to /usr/share/plank/themes
+Its for global users.
+
 # License
 The MIT License (MIT)
 
