@@ -9,7 +9,7 @@ Its for global users.
 # License
 The MIT License (MIT)
 
-Copyright (c) 2015 Diki Andriansyah A P
+Copyright (c) 2015 Diki Andriansyah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
