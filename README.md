@@ -1,8 +1,8 @@
-# Go Plank Theme
+# Frost Plank Theme
 ![images](http://i.imgbox.com/VycKRPO7.png)
 
 # Install
-Copy GoPlank directory to /usr/share/plank/themes
+Copy `Frost` directory to /usr/share/plank/themes
 
 Its for global users.
 
