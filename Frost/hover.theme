@@ -1,5 +1,3 @@
-#This file written by Daniel Fore to match eGTK tooltips.
-
 [PlankDrawingTheme]
 #The roundness of the top corners.
 TopRoundness=6
