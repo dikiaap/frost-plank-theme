@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="http://i.imgbox.com/VycKRPO7.png" width="700px" alt="Frost Plank Theme">
+<img src="http://i.imgbox.com/VycKRPO7.png" alt="Frost Plank Theme">
 </p>
 
 ## Install
