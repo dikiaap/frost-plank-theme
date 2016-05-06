@@ -1,8 +1,14 @@
-# Frost Plank Theme
-![images](http://i.imgbox.com/VycKRPO7.png)
+<h1 align="center">Frost Plank Theme</h1>
+
+<p align="center">
+<br>
+<img src="http://i.imgbox.com/VycKRPO7.png" width="700px" alt="Frost Plank Theme">
+</p>
 
 ## Install
-Copy `Frost` directory to `/usr/share/plank/themes/`
+```shell
+sudo cp -r Frost /usr/share/plank/themes/
+```
 
 ## License
 
