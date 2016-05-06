@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="https://i.imgur.com/ptrLLuY.png" width="650px" alt="Frost Plank Theme">
+<img src="https://i.imgur.com/YcLDx0f.png" alt="Frost Plank Theme">
 </p>
 
 ## Install
