@@ -24,7 +24,7 @@ cp -r Frost ~/.local/share/plank/themes/
 
 [![deviantart](http://i.imgur.com/qfB9Cuc.jpg)](http://dikiaap.deviantart.com/art/Frost-Plank-Theme-607298188)
 
-[![gnome-look](http://i.imgur.com/qjJBYCG.png)](http://gnome-look.org/content/show.php/Frost+Plank+Theme?content=176047)
+[![gnome-look](http://i.imgur.com/qjJBYCG.png)](https://www.gnome-look.org/p/1111286/)
 
 
 ## License
