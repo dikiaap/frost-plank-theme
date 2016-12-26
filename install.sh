@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Do you want to install Frost [Y/n]?" yn
+read -p "Do you want to install Frost [Y/n]? " yn
 
 case "$yn" in
     y|Y|yes|YES|"")
