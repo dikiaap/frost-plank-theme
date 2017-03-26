@@ -29,4 +29,4 @@ cp -r Frost ~/.local/share/plank/themes/
 
 ## License
 
-MIT © [Diki Andriansyah](https://dikiaap.id)
+MIT © [Diki Ananta](https://dikiaap.id)
