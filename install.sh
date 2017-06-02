@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 read -p "Do you want to install Frost [Y/n]? " yn
 
