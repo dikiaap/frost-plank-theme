@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="http://i.imgur.com/YcLDx0f.png" alt="Frost Plank Theme">
+<img src="https://i.imgur.com/YcLDx0f.png" alt="Frost Plank Theme">
 </p>
 
 ## Install
@@ -22,9 +22,9 @@ cp -r Frost ~/.local/share/plank/themes/
 
 ## Related
 
-[![deviantart](http://i.imgur.com/qfB9Cuc.jpg)](http://dikiaap.deviantart.com/art/Frost-Plank-Theme-607298188)
+[![deviantart](https://i.imgur.com/qfB9Cuc.jpg)](https://dikiaap.deviantart.com/art/Frost-Plank-Theme-607298188)
 
-[![gnome-look](http://i.imgur.com/qjJBYCG.png)](https://www.gnome-look.org/p/1111286/)
+[![gnome-look](https://i.imgur.com/qjJBYCG.png)](https://www.gnome-look.org/p/1111286/)
 
 
 ## License
