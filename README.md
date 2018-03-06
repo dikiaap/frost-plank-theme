@@ -20,6 +20,17 @@ cp -r Frost ~/.local/share/plank/themes/
 ```
 
 
+## Usage
+
+After finishing installation, run this command in your Terminal:
+
+```shell
+plank --preferences
+```
+
+Then select `Frost` as your Plank theme.
+
+
 ## Related
 
 [![deviantart](https://i.imgur.com/qfB9Cuc.jpg)](https://dikiaap.deviantart.com/art/Frost-Plank-Theme-607298188)
