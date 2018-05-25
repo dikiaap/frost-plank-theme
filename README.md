@@ -33,8 +33,6 @@ Then select `Frost` as your Plank theme.
 
 ## Related
 
-[![deviantart](https://i.imgur.com/qfB9Cuc.jpg)](https://dikiaap.deviantart.com/art/Frost-Plank-Theme-607298188)
-
 [![gnome-look](https://i.imgur.com/qjJBYCG.png)](https://www.gnome-look.org/p/1111286/)
 
 
