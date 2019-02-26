@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="https://i.imgur.com/YcLDx0f.png" alt="Frost Plank Theme">
+<img src="https://files.dikiaap.id/img/open-source/frost_plank_theme_preview.png" alt="Frost Plank Theme">
 </p>
 
 ## Install
@@ -33,7 +33,7 @@ Then select `Frost` as your Plank theme.
 
 ## Related
 
-[![gnome-look](https://i.imgur.com/qjJBYCG.png)](https://www.gnome-look.org/p/1111286/)
+[![gnome-look](https://files.dikiaap.id/img/miscellaneous/gnome-look.org.png)](https://www.gnome-look.org/p/1111286/)
 
 
 ## License
