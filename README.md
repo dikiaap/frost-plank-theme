@@ -31,11 +31,6 @@ plank --preferences
 Then select `Frost` as your Plank theme.
 
 
-## Related
-
-[![gnome-look](https://files.dikiaap.id/img/miscellaneous/gnome-look.org.png)](https://www.gnome-look.org/p/1111286/)
-
-
 ## License
 
 MIT © [Diki Ananta](https://dikiaap.id)
