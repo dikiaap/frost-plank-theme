@@ -2,7 +2,7 @@
 
 <p align="center">
 <br>
-<img src="https://files.dikiaap.id/img/open-source/frost_plank_theme_preview.png" alt="Frost Plank Theme">
+<img src="https://dikiaap.pages.dev/img/open-source/frost_plank_theme_preview.png" alt="Frost Plank Theme">
 </p>
 
 ## Install
@@ -33,4 +33,4 @@ Then select `Frost` as your Plank theme.
 
 ## License
 
-MIT © [Diki Ananta](https://dikiaap.id)
+MIT © Diki Ananta
